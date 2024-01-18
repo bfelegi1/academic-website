@@ -32,6 +32,17 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: collection
+    id: teaching
+    content:
+      title: Teaching
+      filters:
+        folders:
+          - teaching
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: card
   - block: contact
     id: contact
     content:
