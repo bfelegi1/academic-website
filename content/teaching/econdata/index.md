@@ -29,7 +29,7 @@ tags:
 featured: false
 
 links:
-url_pdf:
+url_pdf: https://bfelegi1.github.io/Job-Market-Materials/syllabus_econ3254_f23.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
