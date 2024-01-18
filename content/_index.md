@@ -222,21 +222,13 @@ sections:
     
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '37.2286',
+        longitude: '-80.4248'  
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: Follow Me on Twitter
           link: 'https://twitter.com/BFelegi'
-        - icon: linkedin
-          icon_pack: fab
-          name: Skype Me
-          link: 'https://www.linkedin.com/in/briannafelegi/'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
