@@ -3,7 +3,7 @@ title: "Supply-Side Responses in School Choice"
 authors:
 - admin
 - Chandon Adger
-date: "2015-09-01T00:00:00Z"
+date: "2023-10-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
