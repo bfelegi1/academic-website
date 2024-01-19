@@ -31,6 +31,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://bfelegi1.github.io/Job-Market-Materials/testoptional.pdf
+url_pdf: https://bfelegi1.github.io/Job-Market-Materials/testoptional_appendix_BF.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
