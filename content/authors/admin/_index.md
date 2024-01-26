@@ -20,7 +20,7 @@ role: Assistant Professor of Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Virginia Tech University
+  - name: Virginia Tech
     url: https://www.vt.edu/
 
 # Short bio (displayed in user profile at end of posts)
