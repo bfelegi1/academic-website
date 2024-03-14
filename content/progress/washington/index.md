@@ -18,7 +18,7 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract:
+abstract: In response to growing concerns over the academic preparation of college-going students, policy makers have suggested increasing the rigor of high school classes. However, there are concerns over whether differential expectations may exacerbate existing inequities in participation. By evaluating the Academic Acceleration Program (AAP), this paper examines whether switching the default of advanced coursework enrollment encourages high school students to take dual-credit courses. I estimate the impact of qualifying for AAP using a fuzzy regression discontinuity design to evaluate subsequent education outcomes, such as on-time graduation, final high school grade point average, matriculation into any public college, remedial coursework, and the number of credits attempted/earned in the first year of college. I find that students just qualifying for AAP based on their English Language Arts (ELA) test scores increase their likelihood of taking a relevant dual-credit course by 8 percentage points. The first-stage results are stronger for boys, ever FRPL and White students. However, qualification for AAP does not significantly alter education outcomes. As policymakers continue to discuss the expansion of these programs, it's important to understand whether and for which groups of students these classes are beneficial.
 
 
 # Summary. An optional shortened abstract.
