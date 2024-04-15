@@ -1,7 +1,9 @@
 ---
-title: "Can Light-Touch Interventions In High School Impact Education Outcomes?"
+title: "Labor Market Shocks and Immigration Enforcement"
 authors:
 - admin
+- Sergio Barrera
+- Sarina Heron
 date: "2023-08-12T00:00:00Z"
 doi: ""
 
@@ -22,7 +24,7 @@ abstract:
 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: Does increased labor market scarcity lead to more local anti-immigration enforcement? We answer this question by evaluating the impact of three national economic shocks on the likelihood that a county sheriff forms a partnership with US Immigration and Customs Enforcement (ICE) in the form of 287(g) contracts. Looking at the universe of signed county-level agreements between 2002 and 2020, we separately use a long-difference, instrumental variables approach and a difference-in-differences design to evaluate the effects of the rise of automation, import competition from China, and the Great Recession. We find that effects of economic shocks on immigration policy depends on their nature. While increased exposure to the rise in automation and import competition did not lead to differential adoption of a 287(g), commuting zones severely impacted by the Great Recession saw large increases. A possible mechanism to explain the differing results is the differential migration response of foreign-born individuals. The results of this paper highlight that general economic anxiety can lead to the enactment of anti-immigration policy; therefore, it is an important channel to consider when discussing the forces that drive sentiment towards immigrants. 
 
 tags:
 - Source Themes
