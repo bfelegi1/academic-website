@@ -24,7 +24,7 @@ organizations:
     url: https://www.vt.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on evaluating policies intended to increase access to schooling.
+bio: My name is Brianna Felegi and I am an Assistant Professor of Economics at Virginia Tech. I completed my Ph.D. in Economics at the University of Notre Dame in May 2023. My primary fields are Applied Microeconomics with an emphasis on the Economics of Education and Labor Economics. My current reseach agenda focuses on evaluating policies intended to increase access to schooling. 
 
 # Interests to show in About widget
 interests:
@@ -76,5 +76,5 @@ social:
 highlight_name: true
 ---
 
-My name is Brianna Felegi and I am an Assistant Professor of Economics at Virginia Tech. I completed my Ph.D. in Economics at the University of Notre Dame in May 2023. My primary fields are Applied Microeconomics and Economics of Education. My research focuses on evaluating policies intended to increase access to schooling. 
+My name is Brianna Felegi and I am an Assistant Professor of Economics at Virginia Tech. I completed my Ph.D. in Economics at the University of Notre Dame in May 2023. My primary fields are Applied Microeconomics with an emphasis on the Economics of Education and Labor Economics. My current reseach agenda focuses on evaluating policies intended to increase access to schooling. 
 {style="text-align: justify;"}
