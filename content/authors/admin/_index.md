@@ -30,6 +30,7 @@ bio: My research focuses on evaluating policies intended to increase access to s
 interests:
   - Applied Microeconomics
   - Economics of Education
+  - Labor Economics
 
 # Education to show in About widget
 education:
