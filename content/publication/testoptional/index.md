@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under Review"
+publication: "Revise and Resubmit Southern Economic Journal"
 publication_short: ""
 
 abstract: As of 2019, about 250 four-year colleges and universities had adopted a test-optional application procedure that allowed students to apply for admission without submitting an SAT or ACT score. Many schools adopted this procedure to encourage greater racial and socioeconomic diversity among admitted students. Unfortunately, we know little about the impact of test-optional policies. In this paper, I use a difference-in-differences design to examine the impact of this reform on schools that adopted the policies between 2006 and 2014. Compared to schools that did not switch, test-optional schools witnessed around a 15 percent increase in the number of Black, Native American/Alaskan Native, and Hispanic enrollments and around a 7 percent increase in the number of Pell Grant students. I also show that test-optional policies affect financial aid disbursements. After switching, schools experienced an increase in the number of students receiving institutional grant aid, but decreases in the average aid granted. Schools offset the decrease in grant aid by increasing the availability of institutional loans. Institutions interested in adopting these policies should consider these possible unintended consequences.
