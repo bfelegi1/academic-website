@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under Review"
+publication: "Revise and Resubmit American Economic Journal: Economic Policy"
 publication_short: ""
 
 abstract: Despite the growth of private-school voucher programs, our understanding of their effectiveness relies on results from small-scale randomized control trials. We show that those results may not translate to programs at scale by examining changes in school quality following the implementation of the Indiana Choice Scholarship Program. We find that public schools facing high exposure to the policy increased quality while participating private schools decreased quality. Initially poor performing public schools drive our results, suggesting that the public school quality gap shrunk because of the program. Policymakers should consider these indirect effects to understand vouchers’ total impact on educational outcomes.
