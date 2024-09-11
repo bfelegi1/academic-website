@@ -55,7 +55,7 @@ sections:
       phone: +1 (540) 231-4431
       appointment_url:
       address:
-        street: 3122 Pamplin Hall, 880 West Campus Drive
+        street: 3119 Pamplin Hall, 880 West Campus Drive
         city: Blacksburg
         region: VA
         postcode: '24060'
