@@ -61,4 +61,3 @@ projects: []
 slides: ""
 ---
 
-Note: This paper was previously circulated under the title "Do the SAT and ACT Limit Enrollment? Evidence from the Test-Optional Movement"
