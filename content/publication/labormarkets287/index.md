@@ -1,7 +1,9 @@
 ---
-title: "Can Light-Touch Interventions Impact Education Outcomes?"
+title: "Labor Market Shocks and Immigration Enforcement"
 authors:
 - admin
+- Sergio Barrera
+- Sarina Heron
   
 date: "2024-10-01T00:00:00Z"
 doi: ""
@@ -18,10 +20,11 @@ publication_types: ["article-journal"]
 publication: "Under Review"
 publication_short: ""
 
-abstract: By evaluating the Academic Acceleration Program (AAP), this paper examines whether switching the default of advanced coursework enrollment encourages high school students to take dual credit courses. I estimate the impact of qualifying for AAP using a regression discontinuity design to evaluate subsequent education outcomes. I find that students just qualifying for AAP increase their likelihood of taking a relevant dual credit course by 8 percentage points, with stronger results for boys. However, qualification for AAP does not significantly alter education outcomes. As policymakers continue these programs, it's important to understand whether simply expanding access is sufficient in improving outcomes.
+abstract: Immigration consistently ranks as one of the most important political issues in the United States. Partly because of its political importance, there exists a vast economic literature examining the impacts of changes in immigration on a wide variety of outcomes. Much less work examines the forces that drive sentiment towards immigrants, or the policies adopted surrounding the issue. In this paper, we examine whether negative local labor market shocks influence the adoption of anti-immigration policy by examining changes in the likelihood of any county within a commuting zone forming a partnership with United States Immigration and Customs Enforcement (ICE) following changes in the unemployment rate as a result of the Great Recession.
+
 
 # Summary. An optional shortened abstract.
-summary: By evaluating the Academic Acceleration Program (AAP), this paper examines whether switching the default of advanced coursework enrollment encourages high school students to take dual credit courses. I estimate the impact of qualifying for AAP using a regression discontinuity design to evaluate subsequent education outcomes. I find that students just qualifying for AAP increase their likelihood of taking a relevant dual credit course by 8 percentage points, with stronger results for boys. However, qualification for AAP does not significantly alter education outcomes. As policymakers continue these programs, it's important to understand whether simply expanding access is sufficient in improving outcomes.
+summary: Immigration consistently ranks as one of the most important political issues in the United States. Partly because of its political importance, there exists a vast economic literature examining the impacts of changes in immigration on a wide variety of outcomes. Much less work examines the forces that drive sentiment towards immigrants, or the policies adopted surrounding the issue. In this paper, we examine whether negative local labor market shocks influence the adoption of anti-immigration policy by examining changes in the likelihood of any county within a commuting zone forming a partnership with United States Immigration and Customs Enforcement (ICE) following changes in the unemployment rate as a result of the Great Recession.
 
 tags:
 - Source Themes
@@ -30,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://bfelegi1.github.io/Job-Market-Paper/Academic_Acceleration_2024.pdf
+url_pdf: https://bfelegi1.github.io/Job-Market-Paper/labormarkets287.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
