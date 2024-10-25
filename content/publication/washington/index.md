@@ -1,5 +1,5 @@
 ---
-title: "The Impacts of Removing College Entrance Exams: Evidence from the Test-Optional Movement"
+title: "Can Light-Touch Interventions in High School Impact Education Outcomes?"
 authors:
 - admin
   
@@ -15,13 +15,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Revise and Resubmit Southern Economic Journal"
+publication: "Under Review"
 publication_short: ""
 
-abstract: As of 2019, about 250 four-year colleges and universities had adopted a test-optional application procedure that allowed students to apply for admission without submitting an SAT or ACT score. Many schools adopted this procedure to encourage greater racial and socioeconomic diversity among admitted students. Unfortunately, we know little about the impact of test-optional policies. In this paper, I use a difference-in-differences design to examine the impact of this reform on schools that adopted the policies between 2006 and 2014. Compared to schools that did not switch, test-optional schools witnessed around a 15 percent increase in the number of Black, Native American/Alaskan Native, and Hispanic enrollments and around a 7 percent increase in the number of Pell Grant students. I also show that test-optional policies affect financial aid disbursements. After switching, schools experienced an increase in the number of students receiving institutional grant aid, but decreases in the average aid granted. Schools offset the decrease in grant aid by increasing the availability of institutional loans. Institutions interested in adopting these policies should consider these possible unintended consequences.
+abstract: By evaluating the Academic Acceleration Program (AAP), this paper examines whether switching the default of advanced coursework enrollment encourages high school students to take dual credit courses. I estimate the impact of qualifying for AAP using a regression discontinuity design to evaluate subsequent education outcomes. I find that students just qualifying for AAP increase their likelihood of taking a relevant dual credit course by 8 percentage points, with stronger results for boys. However, qualification for AAP does not significantly alter education outcomes. As policymakers continue these programs, it's important to understand whether simply expanding access is sufficient in improving outcomes.
 
 # Summary. An optional shortened abstract.
-summary: As of 2019, about 250 four-year colleges and universities had adopted a test-optional application procedure that allowed students to apply for admission without submitting an SAT or ACT score. Many schools adopted this procedure to encourage greater racial and socioeconomic diversity among admitted students. Unfortunately, we know little about the impact of test-optional policies. In this paper, I use a difference-in-differences design to examine the impact of this reform on schools that adopted the policies between 2006 and 2014. Compared to schools that did not switch, test-optional schools witnessed around a 15 percent increase in the number of Black, Native American/Alaskan Native, and Hispanic enrollments and around a 7 percent increase in the number of Pell Grant students. I also show that test-optional policies affect financial aid disbursements. After switching, schools experienced an increase in the number of students receiving institutional grant aid, but decreases in the average aid granted. Schools offset the decrease in grant aid by increasing the availability of institutional loans. Institutions interested in adopting these policies should consider these possible unintended consequences.
+summary: By evaluating the Academic Acceleration Program (AAP), this paper examines whether switching the default of advanced coursework enrollment encourages high school students to take dual credit courses. I estimate the impact of qualifying for AAP using a regression discontinuity design to evaluate subsequent education outcomes. I find that students just qualifying for AAP increase their likelihood of taking a relevant dual credit course by 8 percentage points, with stronger results for boys. However, qualification for AAP does not significantly alter education outcomes. As policymakers continue these programs, it's important to understand whether simply expanding access is sufficient in improving outcomes.
 
 tags:
 - Source Themes
@@ -30,7 +30,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://bfelegi1.github.io/Job-Market-Materials/testoptional.pdf
+url_pdf: https://bfelegi1.github.io/Job-Market-Paper/Academic_Acceleration_2024.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -60,5 +60,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-Note: This paper was previously circulated under the title "Do the SAT and ACT Limit Enrollment? Evidence from the Test-Optional Movement"
