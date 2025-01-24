@@ -3,6 +3,7 @@ title: "The War on Poverty and Higher Education Access: Educational Attainment a
 authors:
 - admin
 - Chloe Gibbs
+- Esra Kose
 date: "2023-08-12T00:00:00Z"
 doi: ""
 
