@@ -17,7 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under Review"
+publication: "Conditionally Accepted at AEA Papers and Proceedings"
 publication_short: ""
 
 abstract: Immigration consistently ranks as one of the most important political issues in the United States. Partly because of its political importance, there exists a vast economic literature examining the impacts of changes in immigration on a wide variety of outcomes. Much less work examines the forces that drive sentiment towards immigrants, or the policies adopted surrounding the issue. In this paper, we examine whether negative local labor market shocks influence the adoption of anti-immigration policy by examining changes in the likelihood of any county within a commuting zone forming a partnership with United States Immigration and Customs Enforcement (ICE) following changes in the unemployment rate as a result of the Great Recession.
