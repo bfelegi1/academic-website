@@ -52,7 +52,7 @@ sections:
          Feel free to contact me with any questions!
       # Contact (add or remove contact options as necessary)
       email: bfelegi@vt.edu
-      phone: +1 (540) 231-4431
+      phone: +1 (540) 231-7590
       appointment_url:
       address:
         street: 3119 Pamplin Hall, 880 West Campus Drive
