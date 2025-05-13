@@ -1,8 +1,10 @@
 ---
-title: "Evaluating the Impact of Vouchers on Peer Interactions in Private Schools Using Mixed Methods"
+title: "Understanding the Impacts of First Semester Math Placement on Post Secondary
+Outcomes"
 authors:
 - admin
-- Joseph Waddington
+- Sergio Barrera
+- Susan Sajadi
 date: "2024-03-12T00:00:00Z"
 doi: ""
 
