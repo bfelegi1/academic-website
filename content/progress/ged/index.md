@@ -1,8 +1,8 @@
 ---
-title: "Evaluating the Impact of Vouchers on Peer Interactions in Private Schools Using Mixed Methods"
+title: "The Non-Labor Impacts of GED Receipt"
 authors:
 - admin
-- Joseph Waddington
+- Antionette Strotter
 date: "2024-03-12T00:00:00Z"
 doi: ""
 
