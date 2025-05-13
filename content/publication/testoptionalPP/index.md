@@ -1,13 +1,13 @@
 ---
-title: "Can Light-Touch Interventions in High School Impact Education Outcomes?"
+title: "Examining Key Impacts of the Test-Optional Movement for Early-Adopters"
 authors:
 - admin
   
-date: "2024-10-01T00:00:00Z"
+date: "2025-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -15,13 +15,14 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under Review"
+publication: "Conditionally Accepted at AEA Papers and Proceedings"
 publication_short: ""
 
-abstract: By evaluating the Academic Acceleration Program (AAP), this paper examines whether switching the default of advanced coursework enrollment encourages high school students to take dual credit courses. I estimate the impact of qualifying for AAP using a regression discontinuity design to evaluate subsequent education outcomes. I find that students just qualifying for AAP increase their likelihood of taking a relevant dual credit course by 8 percentage points, with stronger results for boys. However, qualification for AAP does not significantly alter education outcomes. As policymakers continue these programs, it's important to understand whether simply expanding access is sufficient in improving outcomes.
+abstract: By 2019, around 250 postsecondary institutions adopted a test-optional policy. This paper uses a difference-in-differences design to examine the impact of this reform on schools that switched policies between 2006 and 2014. I find that adopting a test-optional policy increased the share of Black, Native American and Hispanic students as well as Pell Grant recipients. I also show that adopting a test-optional policy did not affect the academic performance of enrolled cohorts but did affect financial aid disbursements. These findings are important considering that several institutions that switched policies during the COVID-19 pandemic have since returned to requiring test scores.
 
 # Summary. An optional shortened abstract.
-summary: By evaluating the Academic Acceleration Program (AAP), this paper examines whether switching the default of advanced coursework enrollment encourages high school students to take dual credit courses. I estimate the impact of qualifying for AAP using a regression discontinuity design to evaluate subsequent education outcomes. I find that students just qualifying for AAP increase their likelihood of taking a relevant dual credit course by 8 percentage points, with stronger results for boys. However, qualification for AAP does not significantly alter education outcomes. As policymakers continue these programs, it's important to understand whether simply expanding access is sufficient in improving outcomes.
+summary: By 2019, around 250 postsecondary institutions adopted a test-optional policy. This paper uses a difference-in-differences design to examine the impact of this reform on schools that switched policies between 2006 and 2014. I find that adopting a test-optional policy increased the share of Black, Native American and Hispanic students as well as Pell Grant recipients. I also show that adopting a test-optional policy did not affect the academic performance of enrolled cohorts but did affect financial aid disbursements. These findings are important considering that several institutions that switched policies during the COVID-19 pandemic have since returned to requiring test scores.
+
 
 tags:
 - Source Themes
@@ -30,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://bfelegi1.github.io/Job-Market-Paper/Academic_Acceleration_2024.pdf
+url_pdf: https://bfelegi1.github.io/Job-Market-Paper/testoptional_aerpp_bf-final.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
